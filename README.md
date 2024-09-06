@@ -41,10 +41,4 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma su
 [Kenji Sato]
 [knjsato1@gmail.com]
 
-**Observações:**
-
-* **Personalize:** Adapte este README.md para que ele reflita o seu projeto de forma mais precisa.
-* **Detalhes:** Adicione mais detalhes sobre a implementação, como a lógica da função de pesquisa, se você achar necessário.
-* **Imagens:** Considere adicionar imagens ou capturas de tela para ilustrar a aplicação.
-* **Links:** Inclua links para os repositórios das bibliotecas ou frameworks utilizados, se houver.
 
