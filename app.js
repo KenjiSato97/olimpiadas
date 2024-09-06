@@ -5,7 +5,7 @@ function pesquisar() {
     let campoPesquisa = document.getElementById
     ("campo-pesquisa").value
 
-    if(!campoPesquisa == ""){
+    if(!campoPesquisa){
         section.innerHTML = "<p> Nada foi encontrado. Você não digitou nenhum parâmetro de busca</p>"
         return 
     }
